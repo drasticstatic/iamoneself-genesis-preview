@@ -155,6 +155,25 @@ The point of recording the machinery in the open is twofold:
   donation-light foundation running real AI-assisted guidance on a free static
   site. The patterns here are intentionally simple and reusable.
 
+## Part three — down the rabbit hole: how this site was made 🐇
+
+You found the footer Navigator's quiet link. Welcome. In brief:
+
+- **The site:** Next.js, exported as plain static pages (no server, no database), so it's fast and safe to
+  host anywhere. Tailwind for style, Pagefind for search, and every word in English and Spanish through
+  one small dictionary.
+- **The welcome:** the arrival (language, path, light), the Vine of the Soul behind your pointer, and
+  the vision for those who choose it. Each respects reduced motion and never flashes.
+- **The care behind it:** a rulebook every AI helper reads, rehearsal before anything goes live, and a
+  tripwire that stops anything private from ever being published.
+- **The family it comes from:** the same builders made a welcome kit and public changelog shared across
+  several fellowships. The whole story of how it grew, every lesson included, is open:
+  [the kit](https://github.com/drasticstatic/my-template/tree/main/changelog-template) ·
+  [the journey](https://github.com/drasticstatic/my-template/blob/main/changelog-template/docs/JOURNEY.md).
+- **Building something similar?** Start with
+  [Join an organization](https://github.com/drasticstatic/my-template/blob/main/walkthroughs/JOIN-AN-ORGANIZATION.md)
+  or [Build your own fleet](https://github.com/drasticstatic/my-template/blob/main/BUILD_YOUR_OWN_FLEET.md).
+
 ---
 
 ## Status
