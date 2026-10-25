@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "5d6a46407ade0005cb3f37e412efe36412871512",
-  "shortCommit": "5d6a464",
-  "message": "feat 2026-10-25 — lineage note on every non-live copy; disclosure moves off the always-on bar",
+  "commit": "c29da55f0f351982bb844b9eb2c989749a780a62",
+  "shortCommit": "c29da55",
+  "message": "feat 2026-10-25 — Knowledgebase drawer, a front-end glossary, and pages for Sex and Sweethearts + Vedanta",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T07:58:53-04:00",
-  "builtAt": "2026-10-25T12:00:32.025Z"
+  "committedAt": "2026-10-25T08:21:42-04:00",
+  "builtAt": "2026-10-25T12:22:20.711Z"
 }
