@@ -27,7 +27,7 @@ disclaimer banner for the compliance framing this policy sits alongside.
 - A completed application is relayed to the foundation team — either
   through a third-party form processor ([Formspree](https://formspree.io),
   which keeps a submission record the team can review, export, and delete)
-  or through your own email client when you press send. **The prototype
+  or through your own email client when you press send. **The site
   itself never transmits or retains it.**
 - Application information is shared only with the team and the medical
   advisor, for the purpose of reviewing your retreat application and

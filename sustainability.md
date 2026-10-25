@@ -28,9 +28,9 @@ database, and no server-side runtime.
 - **Build cost:** a GitHub Actions run recompiles the site only when content
   changes.
 
-Because nothing executes on a server, the prototype's own infrastructure
+Because nothing executes on a server, the site's own infrastructure
 **collects and stores no personal data**. Nothing about a visitor is saved by
-this site. (See the disclaimer on every page for the full wording, and the
+this site. (See the ⓘ "About this site" note, one tap away on every page, for the full wording, and the
 [`roadmap`](roadmap.md) for how application submissions are relayed instead of
 stored.)
 
@@ -121,10 +121,12 @@ itself — retreats, teaching, and service — rather than infrastructure.
 
 ## Status
 
-This portal is a **concept prototype and educational resource**, not the
-official iamoneself.com, and is compliant with GitHub Pages terms of service.
-The official site remains live elsewhere; this portal exists to make the
-foundation's retreat application and teaching content workable, transparent,
-and open. See the [`roadmap`](roadmap.md) for where it is headed.
+This portal began as a **sidecar**, a workspace for shaping the foundation's content and
+building an FAQ portal beside iamoneself.com. It has grown into **a home of its own**
+for the retreats. It is held on GitHub, where every word is versioned and every direction
+we choose stays open, including working hand in hand with the foundation's Wix site and
+the platforms we partner with. It is compliant with GitHub Pages terms of service.
+It exists to make the foundation's retreat application and teaching content
+workable, transparent, and open. See the [`roadmap`](roadmap.md) for where it is headed.
 
 *Into the hands of the gift the gift is given.*

@@ -178,8 +178,11 @@ You found the footer Navigator's quiet link. Welcome. In brief:
 
 ## Status
 
-This portal is a **concept prototype and educational resource**, not the
-official iamoneself.com, and is compliant with GitHub Pages terms of service.
+This portal began as a **sidecar**, a workspace for shaping the foundation's content and
+building an FAQ portal beside iamoneself.com. It has grown into **a home of its own**
+for the retreats. It is held on GitHub, where every word is versioned and every direction
+we choose stays open, including working hand in hand with the foundation's Wix site and
+the platforms we partner with. It is compliant with GitHub Pages terms of service.
 The Formspree backend described above is live. The gateway-connected agents
 are the next stage, described here and in the [`roadmap`](roadmap.md), to be
 undertaken at the foundation's pace and the spiritual lead's direction. See

@@ -11,8 +11,9 @@ and partner organizations can see the path clearly. See
 
 ## Where we are now
 
-- A concept **prototype and educational resource**, not the official
-  iamoneself.com, compliant with GitHub Pages terms of service.
+- Once a **sidecar** for shaping the foundation's content and FAQ beside
+  iamoneself.com; now **a home of its own** for the retreats, held on GitHub and
+  working hand in hand with the Wix site. Compliant with GitHub Pages terms of service.
 - Teaching content live: the FAQ (founded on *A Course in Miracles* and the
   plants-and-miracles lineage), the retreats page, and the plants-and-miracles
   section.

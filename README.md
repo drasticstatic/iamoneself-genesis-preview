@@ -69,7 +69,7 @@ Build a robust back-end context engine and interactive FAQ/knowledge-base interf
 - **Next Steps (/apply)** — Application portal linking to Retreat Guru, Aya Advisors, Miracle Retreats
 - **AI Guide (modal)** — Pagefind-powered search accessible from any page via navbar, with example prompts — no page navigation needed
 - **Custom 404 / Sitemap** — Spiritual theme + integrated Pagefind search + full dual sitemap (live pages + in-development pages with EyeOff indicator) + AI Guide + Next Steps links
-- **Disclaimer Badge** — Persistent amber banner + concept-prototype disclosure modal
+- **About this site (ⓘ)** — The full disclosure (where the site came from, health disclaimer, transparency, GitHub Pages compliance, privacy), one tap away from the navbar, footer, arrival and Lost page. The always-on amber bar is retired. Copies that aren't live greet visitors with the lineage note instead (`src/data/lineage.ts`)
 - **ScrollLegend** — Icon-aware sidebar navigation on all pages (Home, FAQ, Apply, Retreats) with Compass footer link; active knob is amber (default "GoldenHalo") with a GoldenHalo sparkle-wave, or a rose→amber→emerald rainbow gradient in prism mode; inactives fill in the mode color on hover
 - **ScrollIndicator** — 3-chevron animated dividers with an optional middle icon; rainbow when prism mode is active
 - **ScrollReveal** — Framer Motion reverse-parallax section reveals (translate + opacity + a subtle scale 0.97→1) so the story reads forward with a touch of replayable depth
