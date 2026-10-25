@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "07fa58d4075aa052036e0cd08969041dd8fcd092",
-  "shortCommit": "07fa58d",
-  "message": "feat 2026-10-25 — lineage: open the foundation's rehearsal stop (Genesis Stop 7, step 0)",
+  "commit": "d38387b93440abcce51666fa0577241fb457059b",
+  "shortCommit": "d38387b",
+  "message": "feat 2026-10-25 — lineage: the time machine on the lab's Genesis rehearsal too (earlier versions, nearest first); the first lab version is open now that it's history",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T17:10:52-04:00",
-  "builtAt": "2026-10-25T21:11:28.494Z"
+  "committedAt": "2026-10-25T19:09:33-04:00",
+  "builtAt": "2026-10-25T23:10:25.038Z"
 }
