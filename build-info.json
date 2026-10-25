@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "f0f531ea1b4838815fc55eb50fdae2795e7c73ca",
-  "shortCommit": "f0f531e",
-  "message": "feat 2026-10-25 — walking out of the night into the Light: the Vine of the Soul, the vision, dawn on scroll, the Navigator",
+  "commit": "8caf6c19182021db7055482c68a3d1dec2d2fa54",
+  "shortCommit": "8caf6c1",
+  "message": "docs 2026-10-25 — lineage note replaces noindex in the docs; one GitGuardian key per repo; Codex limits are a starting point",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T08:31:28-04:00",
-  "builtAt": "2026-10-25T12:32:04.422Z"
+  "committedAt": "2026-10-25T09:03:04-04:00",
+  "builtAt": "2026-10-25T13:03:51.083Z"
 }
