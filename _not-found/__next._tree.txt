@@ -1,0 +1,6 @@
+:HL["/iamoneself-genesis-preview/_next/static/chunks/0hu0a9-g94ifw.css","style"]
+:HL["/iamoneself-genesis-preview/_next/static/chunks/31gsgeyc_i388.css","style"]
+:HL["/iamoneself-genesis-preview/_next/static/chunks/1z39or5_hb-r4.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"CE8Ki8Oq94JZHxuOeqdY3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
