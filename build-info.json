@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "14aa6b41ad785e97ba05186b8a73412210fdcaea",
-  "shortCommit": "14aa6b4",
-  "message": "fix 2026-10-25 — the vine starts a fresh strand when the pointer jumps; README and notes carry no sponsor or PIR wording into the foundation",
+  "commit": "84afd1b05d0ac686d266d31389d19b02ab04d26c",
+  "shortCommit": "84afd1b",
+  "message": "docs 2026-10-25 — keys-and-locks: Kenney is an owner with 2FA (org requires it); repo links follow LIVE_REPO / REHEARSAL_REPO",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T12:59:34-04:00",
-  "builtAt": "2026-10-25T17:00:26.690Z"
+  "committedAt": "2026-10-25T13:02:16-04:00",
+  "builtAt": "2026-10-25T17:02:52.532Z"
 }
