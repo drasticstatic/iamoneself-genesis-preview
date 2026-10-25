@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "d38387b93440abcce51666fa0577241fb457059b",
-  "shortCommit": "d38387b",
-  "message": "feat 2026-10-25 — lineage: the time machine on the lab's Genesis rehearsal too (earlier versions, nearest first); the first lab version is open now that it's history",
+  "commit": "39ee0ee36fec87fd3b77323a77ce810ae9ffc2f6",
+  "shortCommit": "39ee0ee",
+  "message": "feat 2026-10-25 — each path has its own trail on the lab's Genesis rehearsal too: the Vine of the Soul, Two Hearts, One Ocean",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:09:33-04:00",
-  "builtAt": "2026-10-25T23:10:25.038Z"
+  "committedAt": "2026-10-25T19:53:55-04:00",
+  "builtAt": "2026-10-25T23:54:30.497Z"
 }
