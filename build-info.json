@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "075599ce138845492cdfcbd885c1e27c86b35855",
-  "shortCommit": "075599c",
-  "message": "docs 2026-10-25 — quickstart: the code map (Graphify) and the secret scan guide, matching David's",
+  "commit": "07fa58d4075aa052036e0cd08969041dd8fcd092",
+  "shortCommit": "07fa58d",
+  "message": "feat 2026-10-25 — lineage: open the foundation's rehearsal stop (Genesis Stop 7, step 0)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T13:09:50-04:00",
-  "builtAt": "2026-10-25T17:10:36.583Z"
+  "committedAt": "2026-10-25T17:10:52-04:00",
+  "builtAt": "2026-10-25T21:11:28.494Z"
 }
