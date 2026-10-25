@@ -1,65 +1,66 @@
 1:"$Sreact.fragment"
 2:"/iamoneself-genesis-preview/_next/static/chunks/3jz46ttj7uhsa.js"
-3:"/iamoneself-genesis-preview/_next/static/chunks/21vptxbsgwu-n.js"
-4:"/iamoneself-genesis-preview/_next/static/chunks/0yjqsy1sybci9.js"
-5:"/iamoneself-genesis-preview/_next/static/chunks/3o069wtgz5zx0.js"
-6:"/iamoneself-genesis-preview/_next/static/chunks/1_3fv3enfnfe1.js"
+3:"/iamoneself-genesis-preview/_next/static/chunks/2781ziqdnw96h.js"
+4:"/iamoneself-genesis-preview/_next/static/chunks/16s3mnisrkb8v.js"
+5:"/iamoneself-genesis-preview/_next/static/chunks/0yjqsy1sybci9.js"
+6:"/iamoneself-genesis-preview/_next/static/chunks/0btvyf2tp13zz.js"
 7:I[48085,["$2","$3","$4","$5","$6"],"HtmlLang"]
-8:I[93300,["$2","$3","$4","$5","$6"],"default"]
-9:I[3265,["$2","$3","$4","$5","$6"],"default"]
-a:I[31993,["$2","$3","$4","$5","$6"],"default"]
-b:I[46083,["$2","$3","$4","$5","$6"],"default"]
-c:I[48798,["$2","$3","$4","$5","$6"],"default"]
-d:I[2799,["$2","$3","$4","$5","$6"],"default"]
-e:I[9150,["$2","$3","$4","$5","$6"],"default"]
-f:I[67137,["$2","$3","$4","$5","$6"],"default"]
-10:I[63242,["$2","$3","$4","$5","$6"],"default"]
-11:I[56912,["$2","$3","$4","$5","$6"],"default"]
-12:I[47897,["$2","$3","$4","$5","$6"],"default"]
-13:I[72675,["$2","$3","$4","$5","$6"],"default"]
-14:I[39756,["$2","$3","$4","$5","$6"],"default"]
-15:I[37457,["$2","$3","$4","$5","$6"],"default"]
-16:"/iamoneself-genesis-preview/_next/static/chunks/0w61jg2uhl884.js"
-17:"/iamoneself-genesis-preview/_next/static/chunks/2l0a16--7x95v.js"
-18:I[44690,["$2","$3","$4","$5","$6","$16","$17"],"default"]
-19:I[58234,["$2","$3","$4","$5","$6"],"default"]
-22:"ViewportBoundary"
-23:I[97367,["$2","$3","$4","$5","$6"],"$22"]
-24:"MetadataBoundary"
-25:I[97367,["$2","$3","$4","$5","$6"],"$24"]
-26:"$Sreact.suspense"
-:HL["/iamoneself-genesis-preview/_next/static/chunks/0hu0a9-g94ifw.css","style"]
-:HL["/iamoneself-genesis-preview/_next/static/chunks/2wqwtp5vzohqr.css","style"]
+8:I[87673,["$2","$3","$4","$5","$6"],"default"]
+9:I[93300,["$2","$3","$4","$5","$6"],"default"]
+a:I[3265,["$2","$3","$4","$5","$6"],"default"]
+b:I[31993,["$2","$3","$4","$5","$6"],"default"]
+c:I[46083,["$2","$3","$4","$5","$6"],"default"]
+d:I[48798,["$2","$3","$4","$5","$6"],"default"]
+e:I[9511,["$2","$3","$4","$5","$6"],"default"]
+f:I[9150,["$2","$3","$4","$5","$6"],"default"]
+10:I[67137,["$2","$3","$4","$5","$6"],"default"]
+11:I[63242,["$2","$3","$4","$5","$6"],"default"]
+12:I[56912,["$2","$3","$4","$5","$6"],"default"]
+13:I[47897,["$2","$3","$4","$5","$6"],"default"]
+14:I[72675,["$2","$3","$4","$5","$6"],"default"]
+15:I[39756,["$2","$3","$4","$5","$6"],"default"]
+16:I[37457,["$2","$3","$4","$5","$6"],"default"]
+17:"/iamoneself-genesis-preview/_next/static/chunks/40zzkhrb2-lpx.js"
+18:"/iamoneself-genesis-preview/_next/static/chunks/2l0a16--7x95v.js"
+19:I[44690,["$2","$3","$4","$5","$6","$17","$18"],"default"]
+1a:I[58234,["$2","$3","$4","$5","$6"],"default"]
+23:"ViewportBoundary"
+24:I[97367,["$2","$3","$4","$5","$6"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$2","$3","$4","$5","$6"],"$25"]
+27:"$Sreact.suspense"
+:HL["/iamoneself-genesis-preview/_next/static/chunks/1a0j8sobtt0_r.css","style"]
+:HL["/iamoneself-genesis-preview/_next/static/chunks/1l3jouzbmkrtg.css","style"]
 :HL["/iamoneself-genesis-preview/_next/static/chunks/3w0qlwc7e72u1.css","style"]
-1b:X
-1e:X
-1e:C
-1f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__iaosNotFound=true"}}],["$","$L18",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/3w0qlwc7e72u1.css","precedence":"next"}],["$","script","script-0",{"src":"/iamoneself-genesis-preview/_next/static/chunks/0w61jg2uhl884.js","async":true}],["$","script","script-1",{"src":"/iamoneself-genesis-preview/_next/static/chunks/2l0a16--7x95v.js","async":true}]],"$L20"]}],"p":"$@21","v":null,"s":"$1b"}}]]
-1c:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}]}]]}],"p":"$@1d","v":"$1e","s":"$1b"},"c":"$Q1f"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/0hu0a9-g94ifw.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/2wqwtp5vzohqr.css","precedence":"next"}],["$","script","script-0",{"src":"/iamoneself-genesis-preview/_next/static/chunks/3jz46ttj7uhsa.js","async":true}],["$","script","script-1",{"src":"/iamoneself-genesis-preview/_next/static/chunks/21vptxbsgwu-n.js","async":true}],["$","script","script-2",{"src":"/iamoneself-genesis-preview/_next/static/chunks/0yjqsy1sybci9.js","async":true}],["$","script","script-3",{"src":"/iamoneself-genesis-preview/_next/static/chunks/3o069wtgz5zx0.js","async":true}],["$","script","script-4",{"src":"/iamoneself-genesis-preview/_next/static/chunks/1_3fv3enfnfe1.js","async":true}]],["$","html",null,{"lang":"en","className":"DsMF1q_variable T19VSG_variable _8Li5zG_variable h-full antialiased dark","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var d=document.documentElement;try{var t=localStorage.getItem('theme');d.classList.toggle('dark',t!=='light');if(localStorage.getItem('prism')==='on'){d.classList.add('prism')}var a=JSON.parse(localStorage.getItem('iamoneself-arrival')||'{}')||{};var q=new URLSearchParams(location.search).get('path');var ok=[\"plants-and-miracles\",\"sex-and-sweethearts\",\"vedanta\"];d.dataset.path=ok.indexOf(q)>-1?q:ok.indexOf(a.path)>-1?a.path:'plants-and-miracles';d.dataset.trail=a.trail===false?'off':'on'}catch(e){d.classList.add('dark');d.dataset.path='plants-and-miracles'}})()"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html:not([data-path]) [data-partition]:not([data-partition=\"plants-and-miracles\"]){display:none}\nhtml[data-path=\"plants-and-miracles\"] [data-partition]:not([data-partition=\"plants-and-miracles\"]){display:none}\nhtml[data-path=\"sex-and-sweethearts\"] [data-partition]:not([data-partition=\"sex-and-sweethearts\"]){display:none}\nhtml[data-path=\"vedanta\"] [data-partition]:not([data-partition=\"vedanta\"]){display:none}\nhtml[data-path=\"plants-and-miracles\"] .path-bar [data-path-chip=\"plants-and-miracles\"],html[data-path=\"sex-and-sweethearts\"] .path-bar [data-path-chip=\"sex-and-sweethearts\"],html[data-path=\"vedanta\"] .path-bar [data-path-chip=\"vedanta\"]{background:var(--chip-on-bg);color:var(--chip-on-ink);border-color:var(--chip-on-line)}"}}]]}],["$","body",null,{"className":"min-h-full flex flex-col bg-white text-neutral-900 dark:bg-neutral-950 dark:text-neutral-100","children":[["$","$L7",null,{}],["$","div",null,{"data-pagefind-ignore":true,"children":[["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}]]}],["$","main",null,{"className":"flex-1 pt-16","children":[["$","$L12",null,{}],["$","$L13",null,{"children":["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}],"notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__iaosNotFound=true"}}],["$","$L18",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/3w0qlwc7e72u1.css","precedence":"next"}]]]}]}]]}],["$","div",null,{"data-pagefind-ignore":true,"children":["$","$L19",null,{}]}]]}]]}]]}],"p":"$@1a","v":null,"s":"$1b"},"c":"$Q1c"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lost? — I Am One Self"}],["$","meta","1",{"name":"description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind. Spiritual life coaching, Plants & Miracles retreats, and the Sufi Message of Love, Harmony, and Beauty."}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]}],null]}],"$L34"]}],"p":"$@35","v":null,"s":"$1b"}},"a":"$@36","u":"$@37","b":"LeQ4QZc4hSanOTUXC3VdB"}
-38:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
-3a:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
-20:["$","$L38",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
-27:["$","meta","2",{"name":"keywords","content":"A Course in Miracles,spiritual awakening,entheogen retreats,the medicine,plants and miracles,single-mindedness,spiritual coaching,holy earth foundation"}]
-28:["$","meta","3",{"name":"robots","content":"noindex"}]
-29:["$","meta","4",{"property":"og:title","content":"I Am One Self — The Holy Earth Foundation"}]
-2a:["$","meta","5",{"property":"og:description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind."}]
-2b:["$","meta","6",{"property":"og:url","content":"https://www.iamoneself.com/"}]
-2c:["$","meta","7",{"property":"og:type","content":"website"}]
-2d:["$","meta","8",{"name":"twitter:card","content":"summary"}]
-2e:["$","meta","9",{"name":"twitter:title","content":"I Am One Self — The Holy Earth Foundation"}]
-2f:["$","meta","10",{"name":"twitter:description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind."}]
-30:["$","link","11",{"rel":"icon","href":"/iamoneself-genesis-preview/favicon.ico?v=2","sizes":"any"}]
-31:["$","link","12",{"rel":"icon","href":"/iamoneself-genesis-preview/favicon-32.png?v=2","type":"image/png","sizes":"32x32"}]
-32:["$","link","13",{"rel":"apple-touch-icon","href":"/iamoneself-genesis-preview/apple-touch-icon.png?v=2"}]
-33:["$","$L3a","14",{}]
-34:["$","meta",null,{"name":"next-size-adjust","content":""}]
-1b:300
-39:null
-37:true
-1b:C
-36:0
-1d:"$undefined"
-1a:"$undefined"
-35:"$undefined"
-21:"$undefined"
+1c:X
+1f:X
+1f:C
+20:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__iaosNotFound=true"}}],["$","$L19",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/3w0qlwc7e72u1.css","precedence":"next"}],["$","script","script-0",{"src":"/iamoneself-genesis-preview/_next/static/chunks/40zzkhrb2-lpx.js","async":true}],["$","script","script-1",{"src":"/iamoneself-genesis-preview/_next/static/chunks/2l0a16--7x95v.js","async":true}]],"$L21"]}],"p":"$@22","v":null,"s":"$1c"}}]]
+1d:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}]}]]}],"p":"$@1e","v":"$1f","s":"$1c"},"c":"$Q20"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/1a0j8sobtt0_r.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/1l3jouzbmkrtg.css","precedence":"next"}],["$","script","script-0",{"src":"/iamoneself-genesis-preview/_next/static/chunks/3jz46ttj7uhsa.js","async":true}],["$","script","script-1",{"src":"/iamoneself-genesis-preview/_next/static/chunks/2781ziqdnw96h.js","async":true}],["$","script","script-2",{"src":"/iamoneself-genesis-preview/_next/static/chunks/16s3mnisrkb8v.js","async":true}],["$","script","script-3",{"src":"/iamoneself-genesis-preview/_next/static/chunks/0yjqsy1sybci9.js","async":true}],["$","script","script-4",{"src":"/iamoneself-genesis-preview/_next/static/chunks/0btvyf2tp13zz.js","async":true}]],["$","html",null,{"lang":"en","className":"DsMF1q_variable T19VSG_variable _8Li5zG_variable h-full antialiased dark","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var d=document.documentElement;try{var t=localStorage.getItem('theme');d.classList.toggle('dark',t!=='light');if(localStorage.getItem('prism')==='on'){d.classList.add('prism')}var a=JSON.parse(localStorage.getItem('iamoneself-arrival')||'{}')||{};var q=new URLSearchParams(location.search).get('path');var ok=[\"plants-and-miracles\",\"sex-and-sweethearts\",\"vedanta\"];d.dataset.path=ok.indexOf(q)>-1?q:ok.indexOf(a.path)>-1?a.path:'plants-and-miracles';d.dataset.trail=a.trail===false?'off':'on'}catch(e){d.classList.add('dark');d.dataset.path='plants-and-miracles'}})()"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html:not([data-path]) [data-partition]:not([data-partition=\"plants-and-miracles\"]){display:none}\nhtml[data-path=\"plants-and-miracles\"] [data-partition]:not([data-partition=\"plants-and-miracles\"]){display:none}\nhtml[data-path=\"sex-and-sweethearts\"] [data-partition]:not([data-partition=\"sex-and-sweethearts\"]){display:none}\nhtml[data-path=\"vedanta\"] [data-partition]:not([data-partition=\"vedanta\"]){display:none}\nhtml[data-path=\"plants-and-miracles\"] .path-bar [data-path-chip=\"plants-and-miracles\"],html[data-path=\"sex-and-sweethearts\"] .path-bar [data-path-chip=\"sex-and-sweethearts\"],html[data-path=\"vedanta\"] .path-bar [data-path-chip=\"vedanta\"]{background:var(--chip-on-bg);color:var(--chip-on-ink);border-color:var(--chip-on-line)}"}}]]}],["$","body",null,{"className":"min-h-full flex flex-col bg-white text-neutral-900 dark:bg-neutral-950 dark:text-neutral-100","children":[["$","$L7",null,{}],["$","div",null,{"data-pagefind-ignore":true,"children":[["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}]]}],["$","main",null,{"className":"flex-1 pt-16","children":[["$","$L13",null,{}],["$","$L14",null,{"children":["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}],"notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__iaosNotFound=true"}}],["$","$L19",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/iamoneself-genesis-preview/_next/static/chunks/3w0qlwc7e72u1.css","precedence":"next"}]]]}]}]]}],["$","div",null,{"data-pagefind-ignore":true,"children":["$","$L1a",null,{}]}]]}]]}]]}],"p":"$@1b","v":null,"s":"$1c"},"c":"$Q1d"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lost? — I Am One Self"}],["$","meta","1",{"name":"description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind. Spiritual life coaching, Plants & Miracles retreats, and the Sufi Message of Love, Harmony, and Beauty."}],"$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}],null]}],"$L35"]}],"p":"$@36","v":null,"s":"$1c"}},"a":"$@37","u":"$@38","b":"1-TNViH2Y_eR1Hf5PtGKE"}
+39:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+3b:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+21:["$","$L39",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@3a"}]}]
+28:["$","meta","2",{"name":"keywords","content":"A Course in Miracles,spiritual awakening,entheogen retreats,the medicine,plants and miracles,single-mindedness,spiritual coaching,holy earth foundation"}]
+29:["$","meta","3",{"name":"robots","content":"noindex"}]
+2a:["$","meta","4",{"property":"og:title","content":"I Am One Self — The Holy Earth Foundation"}]
+2b:["$","meta","5",{"property":"og:description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind."}]
+2c:["$","meta","6",{"property":"og:url","content":"https://www.iamoneself.com/"}]
+2d:["$","meta","7",{"property":"og:type","content":"website"}]
+2e:["$","meta","8",{"name":"twitter:card","content":"summary"}]
+2f:["$","meta","9",{"name":"twitter:title","content":"I Am One Self — The Holy Earth Foundation"}]
+30:["$","meta","10",{"name":"twitter:description","content":"Discover the Unity of Being. A Course in Miracles & Mystic Teachings of Christ-Mind."}]
+31:["$","link","11",{"rel":"icon","href":"/iamoneself-genesis-preview/favicon.ico?v=2","sizes":"any"}]
+32:["$","link","12",{"rel":"icon","href":"/iamoneself-genesis-preview/favicon-32.png?v=2","type":"image/png","sizes":"32x32"}]
+33:["$","link","13",{"rel":"apple-touch-icon","href":"/iamoneself-genesis-preview/apple-touch-icon.png?v=2"}]
+34:["$","$L3b","14",{}]
+35:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1c:300
+3a:null
+38:true
+1c:C
+37:0
+1e:"$undefined"
+1b:"$undefined"
+36:"$undefined"
+22:"$undefined"
