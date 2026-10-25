@@ -37,7 +37,7 @@
 
 This private repo is the build workspace. The public preview (`iamoneself-public-preview`) is the filtered output automatically synced on every push to `main`.
 
-**Sponsor & Spiritual Lead:** Isaiah "Kenney" (Kenneth Zimbleman)
+**Spiritual Lead:** Isaiah "Kenney" (Kenneth Zimbleman)
 **Developer / builder:** Christopher Wilson (`drasticstatic`)
 **AI agents:** Alfred (Claude Code CLI) — primary technical architect & builder
 
@@ -177,7 +177,7 @@ npm run build
 
 | Role | Who |
 |------|-----|
-| **Sponsor & Spiritual Lead** | Isaiah "Kenney" |
+| **Spiritual Lead** | Isaiah "Kenney" |
 | **Technical Lead / Builder** | Christopher Wilson |
 | **Agent** | Alfred (Claude Code CLI) |
 | **Observer / Context Bridge** | Littlebird |

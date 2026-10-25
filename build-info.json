@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "bc833edcd6c807439c82c569a37f53869e2e27ee",
-  "shortCommit": "bc833ed",
-  "message": "feat 2026-10-25 — the disclosure tells the true story: once a sidecar for shaping the FAQ, now a home of its own; repo links follow each lane",
+  "commit": "14aa6b41ad785e97ba05186b8a73412210fdcaea",
+  "shortCommit": "14aa6b4",
+  "message": "fix 2026-10-25 — the vine starts a fresh strand when the pointer jumps; README and notes carry no sponsor or PIR wording into the foundation",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T12:51:28-04:00",
-  "builtAt": "2026-10-25T16:52:19.070Z"
+  "committedAt": "2026-10-25T12:59:34-04:00",
+  "builtAt": "2026-10-25T17:00:26.690Z"
 }
