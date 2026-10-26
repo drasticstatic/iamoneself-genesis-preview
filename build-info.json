@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "39ee0ee36fec87fd3b77323a77ce810ae9ffc2f6",
-  "shortCommit": "39ee0ee",
-  "message": "feat 2026-10-25 — each path has its own trail on the lab's Genesis rehearsal too: the Vine of the Soul, Two Hearts, One Ocean",
+  "commit": "7f7b5b2d7efe582c51a62e5cf5e5d3eb7b738a44",
+  "shortCommit": "7f7b5b2",
+  "message": "chore 2026-10-25 — twins: the Genesis lane in step (lint polish, the lanes base-path fix, the twin rule, PR template, Dependabot config, keys-and-locks)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:53:55-04:00",
-  "builtAt": "2026-10-25T23:54:30.497Z"
+  "committedAt": "2026-10-25T21:43:38-04:00",
+  "builtAt": "2026-10-26T01:44:12.937Z"
 }
