@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "7f7b5b2d7efe582c51a62e5cf5e5d3eb7b738a44",
-  "shortCommit": "7f7b5b2",
-  "message": "chore 2026-10-25 — twins: the Genesis lane in step (lint polish, the lanes base-path fix, the twin rule, PR template, Dependabot config, keys-and-locks)",
+  "commit": "e5ba04f8cc4fe9f5bf751559d1dd748654e6f2f1",
+  "shortCommit": "e5ba04f",
+  "message": "twins 2026-10-26 — /give: the practice gift, mirrored file for file from theholyearthfoundation/iamoneself-retreats bf290e2 (a shared feature)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:43:38-04:00",
-  "builtAt": "2026-10-26T01:44:12.937Z"
+  "committedAt": "2026-10-26T12:25:10-04:00",
+  "builtAt": "2026-10-26T16:25:57.187Z"
 }
